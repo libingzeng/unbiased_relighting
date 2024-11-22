@@ -22,11 +22,11 @@ With the advances in generative adversarial networks (GANs) and neural rendering
 
 ## Citation
 If our work is useful for your research, please consider citing:
-
+```
 @article{Zeng_2025_relighting,
     author = {Zeng, Libing and Kalantari, Nima Khademi},
     title = {Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators},
     booktitle={The IEEE/CVF Winter Conference on Applications of Computer Vision},
     year={2025}
 }
-
+```
